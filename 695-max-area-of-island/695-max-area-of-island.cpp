@@ -3,7 +3,7 @@ public:
     int dfs(int i, int j,vector<vector<int>>& grid,  vector<vector<bool>> &vis){
         if(i<0 || j<0 || i==grid.size() || j==grid[0].size() || vis[i][j] || grid[i][j]==0) 
             return 0;
-        vis[i][j]=true;
+        vis[i][j]=1;
         return 1 + dfs(i-1, j, grid, vis) + dfs(i, j-1, grid, vis) + dfs(i+1, j, grid, vis) + dfs(i, j+1, grid, vis);
     }
     int maxAreaOfIsland(vector<vector<int>>& grid) {
