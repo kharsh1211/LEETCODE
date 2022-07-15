@@ -8,7 +8,7 @@ public:
     }
     int maxAreaOfIsland(vector<vector<int>>& grid) {
         int n=grid.size(), m=grid[0].size();
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        vector<vector<bool>> vis(n, vector<bool>(m, 0));
         int ans=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
