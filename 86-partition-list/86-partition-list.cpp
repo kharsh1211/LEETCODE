@@ -34,11 +34,11 @@ public:
         
         
         ListNode* newHead = new ListNode(0);
-		ListNode* result = newHead;
+		ListNode* newcurr = newHead;
 		
 		for (int num : list2) {
-			result->next = new ListNode(num);
-			result = result->next;
+			newcurr->next = new ListNode(num);
+			newcurr = newcurr->next;
 		}
 		
 		return newHead->next;
