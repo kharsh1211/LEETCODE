@@ -1,13 +1,14 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> ans{-1,-1};
-        auto lower = lower_bound(nums.begin(), nums.end(), target);
-        auto upper = upper_bound(nums.begin(), nums.end(), target);
-        if(lower!=nums.end() && *lower==target){
-            ans[0]=lower - nums.begin();
-            ans[1]=upper - nums.begin()-1;
-        }
-        return ans;
+        auto low = lower_bound(nums.begin(),nums.end(),target);
+        auto up = upper_bound(nums.begin(),nums.end(),target);
+        
+        if(!binary_search(nums.begin(),nums.end(),target))    return {-1,-1};
+        
+        int first = low - nums.begin();
+        int last = up - nums.begin()-1;
+        
+        return {first ,last};
     }
 };
