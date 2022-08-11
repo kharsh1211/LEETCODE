@@ -11,11 +11,11 @@
  */
 class Solution {
 public:
-    bool BST(TreeNode* root,long l,long r){
+    bool BST(TreeNode* root,long low,long high){
         if(root==NULL)
             return true;
-        if(root->val < r && root->val > l)
-            return BST(root->left,l,root->val) && BST(root->right,root->val,r);
+        if(root->val < high && root->val > low)
+            return BST(root->left,low,root->val) && BST(root->right,root->val,high);
         else 
             return false;
     }
