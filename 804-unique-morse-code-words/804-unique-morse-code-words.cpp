@@ -9,7 +9,7 @@ public:
             string s = words[i]; 
             string temp = ""; 
 
-            for(int j= 0 ;j < s.length(); j++){
+            for(int j= 0 ;j < s.size(); j++){
                 int e = s[j] - 'a'; 
                 temp += morse[e];
             }
