@@ -1,7 +1,6 @@
 class Solution {
 public:
     int reachableNodes(int n, vector<vector<int>>& edges, vector<int>& restricted) {
-        unordered_set<int> rest(restricted.begin(), restricted.end());
         vector<int> adj[n];
         vector<int> visited(n, false);
         for(auto e: edges) {
