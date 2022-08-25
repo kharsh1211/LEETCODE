@@ -13,5 +13,5 @@ public:
     //Reversing next n-k elements
     for(int i=k;i<k+(n-k)/2;i++) swap(arr[i],arr[n+k-i-1]);
     
-}
+    }
 };
