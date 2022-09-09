@@ -9,9 +9,9 @@ public:
         sort(prop.begin(),prop.end(),comp);
         int maxTillNow = INT_MIN;
         int ans=0;
-        for(auto p:prop){
-            if(maxTillNow>p[1]) ans++;
-            else maxTillNow=p[1];
+        for(auto i:prop){
+            if(maxTillNow>i[1]) ans++;
+            else maxTillNow=i[1];
         }
         return ans;
     }
