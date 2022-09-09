@@ -11,8 +11,10 @@ public:
         int maxTillNow = INT_MIN;
         int ans=0;
         for(auto i:prop){
-            if(maxTillNow>i[1]) ans++;
-            else maxTillNow=i[1];
+            if(maxTillNow>i[1]) 
+                ans++;
+            else 
+                maxTillNow=i[1];
         }
         return ans;
     }
