@@ -33,7 +33,7 @@ public:
     }
     
     bool empty() {
-        return !q.size();
+        return q.size()==0;
     }
 };
 
