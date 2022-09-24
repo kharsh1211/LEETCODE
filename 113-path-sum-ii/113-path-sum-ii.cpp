@@ -20,8 +20,7 @@ public:
         return ans;
     }
 
-    void dfs(TreeNode* node, int targetSum, vector<int>& path,
-             vector<vector<int>>& ans) {
+    void dfs(TreeNode* node, int targetSum, vector<int>& path, vector<vector<int>>& ans) {
         path.push_back(node->val);
         targetSum -= node->val;
         if (!node->left && !node->right && !targetSum) 
