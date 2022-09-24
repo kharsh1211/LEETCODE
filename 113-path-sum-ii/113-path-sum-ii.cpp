@@ -12,8 +12,8 @@
 class Solution {
 public:
      vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        if (!root) return {};
-
+        if (!root) 
+            return {};
         vector<vector<int>> ans;
         vector<int> path;
         dfs(root, targetSum, path, ans);
