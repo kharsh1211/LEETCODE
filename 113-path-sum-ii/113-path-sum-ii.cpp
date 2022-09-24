@@ -24,9 +24,12 @@ public:
              vector<vector<int>>& ans) {
         path.push_back(node->val);
         targetSum -= node->val;
-        if (!node->left && !node->right && !targetSum) ans.push_back(path);
-        if (node->left) dfs(node->left, targetSum, path, ans);
-        if (node->right) dfs(node->right, targetSum, path, ans);
+        if (!node->left && !node->right && !targetSum) 
+            ans.push_back(path);
+        if (node->left) 
+            dfs(node->left, targetSum, path, ans);
+        if (node->right) 
+            dfs(node->right, targetSum, path, ans);
         path.pop_back();
     }
 };
