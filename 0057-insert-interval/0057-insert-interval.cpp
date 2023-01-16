@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
          vector<vector<int>>ans;
-        for(auto &i:intervals){
+        for(auto &&i:intervals){
     //  the new interval is after the range of other interval
             if(i[1]<newInterval[0])ans.push_back(i);
     // the new interval's range is before the other
