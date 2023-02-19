@@ -24,12 +24,14 @@ public:
                TreeNode * f=q.front();
                v.push_back(q.front()->val);
                q.pop();
-               if(f->left)q.push(f->left);
-               if(f->right)q.push(f->right);
+               if(f->left)
+                   q.push(f->left);
+               if(f->right)
+                   q.push(f->right);
 
            }
            if(i++%2)
-           reverse(v.begin(),v.end());
+               reverse(v.begin(),v.end());
            ans.push_back(v);
 
         }
