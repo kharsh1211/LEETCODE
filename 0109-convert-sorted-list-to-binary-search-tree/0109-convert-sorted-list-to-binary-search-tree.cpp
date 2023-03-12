@@ -23,7 +23,7 @@ class Solution {
 public:
     TreeNode* sortedListToBST(ListNode* head) {
         if (!head) {
-            return nullptr;
+            return NULL;
         }
         ListNode* mid = findMiddle(head);
         TreeNode* root = new TreeNode(mid->val);
@@ -38,14 +38,14 @@ public:
     ListNode* findMiddle(ListNode* head) {
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* prev = nullptr;
+        ListNode* prev = NULL;
         while (fast && fast->next) {
             prev = slow;
             slow = slow->next;
             fast = fast->next->next;
         }
         if (prev) {
-            prev->next = nullptr;
+            prev->next = NULL;
         }
         return slow;
     }
