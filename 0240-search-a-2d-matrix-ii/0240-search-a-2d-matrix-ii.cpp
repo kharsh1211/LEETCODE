@@ -8,7 +8,6 @@ public:
             
             if(lower!=matrix[i].end() && *lower==target){
                 return true;
-                break;
             }
         }
         return false;
