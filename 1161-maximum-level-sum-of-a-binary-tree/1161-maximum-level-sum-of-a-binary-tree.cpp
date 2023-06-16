@@ -14,7 +14,7 @@ public:
     int maxLevelSum(TreeNode* root) {
         
         int maxsum=INT_MIN;
-        int ans=-1;
+        int ans=0;
         int lvl=0;
         
         queue<TreeNode*>q;
