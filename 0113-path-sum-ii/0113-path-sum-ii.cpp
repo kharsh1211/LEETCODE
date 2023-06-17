@@ -20,7 +20,7 @@ public:
         if(root->left == NULL && root->right==NULL){
             long int sum = 0;
             int size = path.size();
-            for(int i = 0 ; i <size ; i++){
+            for(int i = 0 ; i <size ; ++i){
                 sum += path[i];
             }
             if(sum == targetSum)
