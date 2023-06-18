@@ -27,15 +27,15 @@ public:
                 TreeNode*front=q.front();
                 q.pop();
                 
-                if(front->left!=NULL)
-                    q.push(front->left);
-                
                 if(front->right!=NULL)
                     q.push(front->right);
                 
+                if(front->left!=NULL)
+                    q.push(front->left);
+                
                 lvl.push_back(front->val);
             }
-            ans.push_back(lvl[lvl.size()-1]);
+            ans.push_back(lvl[0]);
         }
         return ans;
     }
