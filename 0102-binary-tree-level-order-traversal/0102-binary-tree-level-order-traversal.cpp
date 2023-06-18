@@ -21,7 +21,7 @@ public:
     while(!q.empty()){
         int x = q.size();
         vector<int>v1;
-        while(x--){
+        for(int i=0;i<x;i++){
             TreeNode* front = q.front();
             q.pop();
             if(front->left != NULL){
