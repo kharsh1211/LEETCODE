@@ -13,7 +13,7 @@ public:
             return myPow(x*x, n/2);
         }
         else{
-            return x*myPow(x, n-1);
+            return x*myPow(x*x, n/2);
         }
     }
 };
