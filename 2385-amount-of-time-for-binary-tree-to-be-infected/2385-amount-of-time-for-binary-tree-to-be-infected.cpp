@@ -11,52 +11,45 @@
  */
 class Solution {
 public:
-    int lvl=0;
-    void dfs(TreeNode *root,unordered_map<int,TreeNode*> &mp){
-        if(!root)return ;
-        if(root->left)mp[root->left->val]=root;
-        if(root->right)mp[root->right->val]=root;
-        dfs(root->left,mp);
-        dfs(root->right,mp);
-        lvl++;
-    }
-    TreeNode *startEdge=NULL;
-    void searchEdge(TreeNode *root,int start){
-        if(!(root || startEdge)) return ;
-        if(!root) return ;
-        if(root->val==start){
-            startEdge=root;
-            return ;
+    
+    vector<int>adj[100001];
+    void graph(TreeNode*root){
+        if(root==NULL)
+            return;
+            
+        if(root->left!=NULL){
+            adj[root->val].push_back(root->left->val);
+            adj[root->left->val].push_back(root->val);
         }
-        searchEdge(root->left,start);
-        searchEdge(root->right,start);
+        if(root->right!=NULL){
+            adj[root->val].push_back(root->right->val);
+            adj[root->right->val].push_back(root->val);
+        }
+        graph(root->left);
+        graph(root->right);
     }
+    
     int amountOfTime(TreeNode* root, int start) {
-        unordered_map<int,TreeNode *> backEdge;
-        queue<TreeNode*> q;
-        lvl=0;
-        searchEdge(root,start);
-        dfs(root,backEdge);
-        unordered_set<int> vis;
-        q.push(startEdge);
-        // if(startEdge)cout<<startEdge->val;
-        int ans=0;
+        graph(root);
+        queue<int>q;
+        q.push(start);
+        int vis[100001]={0};
+        int lvl=-1;
+        int maxl=INT_MIN;
         while(!q.empty()){
-            int sz=q.size();
-            while(sz--){
-                TreeNode *currEdge=q.front();
+            lvl++;
+            int s=q.size();
+            for(int i=0;i<s;i++){
+                int front=q.front();
                 q.pop();
-                int currEdgeVal=currEdge->val;
-                
-                if(vis.count(currEdgeVal))continue;
-                vis.insert(currEdgeVal);
-                if(vis.size()==lvl) return ans;
-                if(backEdge.count(currEdgeVal)) q.push(backEdge[currEdgeVal]);
-                if(currEdge->left) q.push(currEdge->left);
-                if(currEdge->right) q.push(currEdge->right);
+                maxl=max(maxl,lvl);
+                vis[front]=1;
+                for(auto x:adj[front]){
+                    if(vis[x]==0)
+                        q.push(x);
+                }
             }
-            ans++;
         }
-        return 0;
+        return maxl;
     }
 };
