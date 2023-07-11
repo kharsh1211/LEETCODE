@@ -34,15 +34,13 @@ public:
         queue<int>q;
         q.push(start);
         int vis[100001]={0};
-        int lvl=-1;
-        int maxl=INT_MIN;
+        int lvl=0;
         while(!q.empty()){
             lvl++;
             int s=q.size();
             for(int i=0;i<s;i++){
                 int front=q.front();
                 q.pop();
-                maxl=max(maxl,lvl);
                 vis[front]=1;
                 for(auto x:adj[front]){
                     if(vis[x]==0)
@@ -50,6 +48,6 @@ public:
                 }
             }
         }
-        return maxl;
+        return lvl-1;
     }
 };
