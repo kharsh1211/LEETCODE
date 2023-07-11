@@ -9,47 +9,48 @@
  */
 class Solution {
 public:
-    vector<int>adj[500];
-    void makeAdj(TreeNode* root){
-        if(!root){
+    vector<int>adj[501];
+    void graph(TreeNode*root){
+        if(root==NULL)
             return;
-        }
-        if(root->left){
+        
+        if(root->left!=NULL){
             adj[root->val].push_back(root->left->val);
             adj[root->left->val].push_back(root->val);
         }
-        if(root->right){
+        
+        if(root->right!=NULL){
             adj[root->val].push_back(root->right->val);
             adj[root->right->val].push_back(root->val);
         }
-        makeAdj(root->left);
-        makeAdj(root->right);
+        graph(root->left);
+        graph(root->right);
     }
     
+    
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        makeAdj(root);
-    queue<int>q;
-    q.push(target->val);
-    int vis[500]={0};
-    vector<int>ans;
-    int lvl=0;
-    while(!q.empty()){
-        int n=q.size();
-        lvl++;
-        for(int i=0;i<n;i++){
-            int node=q.front();
-            q.pop();
-            if(lvl==k+1){
-                ans.push_back(node);
-            }
-            vis[node]=1;
-            for(auto x:adj[node]){
-                if(!vis[x]){
-                    q.push(x);
+        graph(root);
+        queue<int>q;
+        q.push(target->val);
+        int vis[501]={0};
+        vector<int>ans;
+        int lvl=0;
+        while(!q.empty()){
+            lvl++;
+            int s=q.size();
+            for(int i=0;i<s;i++){
+                int front=q.front();
+                q.pop();
+                if(lvl==k+1)
+                    ans.push_back(front);
+                vis[front]=1;
+                for(auto x:adj[front]){
+                    if(vis[x]==0)
+                        q.push(x);
                 }
+                
             }
         }
-    }
-return ans;    
+        return ans;
     }
 };
