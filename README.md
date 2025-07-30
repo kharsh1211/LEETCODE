@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Bit Manipulation
 |  |
@@ -23,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
