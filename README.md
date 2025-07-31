@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Bit Manipulation
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
 ## Breadth-First Search
 |  |
@@ -40,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
