@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Bit Manipulation
 |  |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
 | ------- |
