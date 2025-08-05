@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/kharsh1211/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
@@ -65,5 +66,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
