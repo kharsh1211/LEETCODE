@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,4 +71,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
