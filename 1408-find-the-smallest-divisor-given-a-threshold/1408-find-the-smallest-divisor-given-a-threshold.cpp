@@ -16,7 +16,7 @@ public:
 
     int smallestDivisor(vector<int>& nums, int threshold) {
         int l=1;
-        int r=1000000;
+        int r=*max_element(nums.begin(),nums.end());
         int ans=-1;
 
         while(l<=r){
