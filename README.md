@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Dynamic Programming
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
+| [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Bit Manipulation
 |  |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
+| [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kharsh1211/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -97,4 +101,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kharsh1211/LEETCODE/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
+## Sorting
+|  |
+| ------- |
+| [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
