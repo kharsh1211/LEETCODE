@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kharsh1211/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/kharsh1211/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/kharsh1211/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0090-subsets-ii) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/kharsh1211/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kharsh1211/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/kharsh1211/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/kharsh1211/LEETCODE/tree/master/0216-combination-sum-iii) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0047-permutations-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 ## Linked List
 |  |
