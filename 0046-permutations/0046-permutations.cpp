@@ -1,26 +1,30 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> temp;
-
-    void solve(vector<int>& nums, vector<bool>& used) {
-        if (temp.size() == nums.size()) {
+    vector<int>temp;
+    map<int, int>mp;
+    vector<vector<int>>ans;
+    void solve(vector<int>& nums){
+        if(temp.size()==nums.size()){
             ans.push_back(temp);
             return;
         }
-        for (int i = 0; i < nums.size(); i++) {
-            if (used[i]) continue;
-            used[i] = true;
-            temp.push_back(nums[i]);
-            solve(nums, used);
-            temp.pop_back();
-            used[i] = false;
-        }
-    }
 
+        for(auto &i:mp){
+            if(i.second!=0){
+                mp[i.first]--;
+                temp.push_back(i.first);
+                solve(nums);
+                temp.pop_back();
+                mp[i.first]++;
+            }
+        }
+
+    }
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<bool> used(nums.size(), false);
-        solve(nums, used);
-        return ans;
+        for(int i=0;i<nums.size();i++){
+            mp[nums[i]]++;
+        }
+        solve(nums);
+        return ans;  
     }
 };
