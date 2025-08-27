@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1019-squares-of-a-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kharsh1211/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kharsh1211/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/kharsh1211/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [1019-squares-of-a-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0047-permutations-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0047-permutations-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
+| [1019-squares-of-a-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
