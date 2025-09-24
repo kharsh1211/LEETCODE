@@ -12,14 +12,12 @@ public:
         else pq2.push(num);
 
         if(pq2.size()>pq1.size()){
-            int temp=pq2.top();
+            pq1.push(pq2.top());
             pq2.pop();
-            pq1.push(temp);
         }
         else if(pq1.size()>pq2.size()+1){
-            int temp=pq1.top();
+            pq2.push(pq1.top());
             pq1.pop();
-            pq2.push(temp);
         }
     }
     
