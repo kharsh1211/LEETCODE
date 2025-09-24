@@ -7,8 +7,7 @@ public:
     }
     
     void addNum(int num) {
-        if(pq1.empty()) pq1.push(num);
-        else if(num<pq1.top()) pq1.push(num);
+        if(pq1.empty() || num<pq1.top()) pq1.push(num);
         else pq2.push(num);
 
         if(pq2.size()>pq1.size()){
