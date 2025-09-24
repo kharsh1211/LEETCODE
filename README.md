@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/kharsh1211/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/kharsh1211/LEETCODE/tree/master/0216-combination-sum-iii) |
+| [0238-product-of-array-except-self](https://github.com/kharsh1211/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/kharsh1211/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
