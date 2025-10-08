@@ -18,8 +18,8 @@ public:
         vector<int>vis(n,0);
         for(int i=0;i<n;i++){
             if(!vis[i]) {
-                count++;
                 dfs(graph,vis,i);
+                count++;
             }
         }
         return count;
