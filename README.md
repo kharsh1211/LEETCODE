@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-path-with-maximum-gold](https://github.com/kharsh1211/LEETCODE/tree/master/1331-path-with-maximum-gold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kharsh1211/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kharsh1211/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kharsh1211/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/kharsh1211/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Breadth-First Search
 |  |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kharsh1211/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kharsh1211/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Two Pointers
 |  |
 | ------- |
