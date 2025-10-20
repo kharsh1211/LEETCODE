@@ -9,7 +9,7 @@ public:
         int ways=0;
 
         for(int j=1;j<=2;j++){
-            ways+=solve(n,i+j,dp);
+            if(i+j<=n) ways+=solve(n,i+j,dp);
         }
 
         return dp[i]= ways;
