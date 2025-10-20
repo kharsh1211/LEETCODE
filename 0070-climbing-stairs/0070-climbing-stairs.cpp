@@ -6,10 +6,13 @@ public:
 
         if(dp[i]!=-1) return dp[i];
 
-        int one=solve(n,i+1,dp);
-        int two=solve(n,i+2,dp);
+        int ways=0;
 
-        return dp[i]= one + two;
+        for(int j=1;j<=2;j++){
+            ways+=solve(n,i+j,dp);
+        }
+
+        return dp[i]= ways;
     }
     int climbStairs(int n) {
         vector<int>dp(n,-1);
