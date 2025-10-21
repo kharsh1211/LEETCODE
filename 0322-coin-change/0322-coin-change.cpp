@@ -11,9 +11,10 @@ public:
             return dp[i][amount];
         }
         int pick=1+solve(coins,amount-coins[i],i,dp);
+        int pg=1+solve(coins,amount-coins[i],i+1,dp);
         int notpick=solve(coins,amount,i+1,dp);
 
-        return dp[i][amount]=min(pick,notpick);
+        return dp[i][amount]=min(pick,min(pg,notpick));
 
     }
     int coinChange(vector<int>& coins, int amount) {
