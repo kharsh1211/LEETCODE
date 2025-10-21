@@ -10,11 +10,14 @@ public:
         if(dp[i][amount]!=-1){
             return dp[i][amount];
         }
-        int pick=1+solve(coins,amount-coins[i],i,dp);
-        int pg=1+solve(coins,amount-coins[i],i+1,dp);
-        int notpick=solve(coins,amount,i+1,dp);
-
-        return dp[i][amount]=min(pick,min(pg,notpick));
+        int count = 100000;
+        for (int idx = i; idx < coins.size(); idx++) {
+            int res = solve(coins, amount - coins[idx], idx, dp);
+            if (res != 100000) {
+                count = min(count, 1 + res);
+            }
+        }
+        return dp[i][amount]=count;
 
     }
     int coinChange(vector<int>& coins, int amount) {
