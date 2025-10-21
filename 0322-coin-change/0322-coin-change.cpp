@@ -1,11 +1,11 @@
 class Solution {
 public:
     int solve(vector<int>& coins, int amount,int i,vector<vector<int>>&dp){
-        if(amount==0){
-            return 0;
-        }
         if(amount<0 || i==coins.size()){
             return 100000;
+        }
+        if(amount==0){
+            return 0;
         }
         if(dp[i][amount]!=-1){
             return dp[i][amount];
