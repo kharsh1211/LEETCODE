@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kharsh1211/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/kharsh1211/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kharsh1211/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/kharsh1211/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/kharsh1211/LEETCODE/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/kharsh1211/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kharsh1211/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kharsh1211/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/kharsh1211/LEETCODE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kharsh1211/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kharsh1211/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/kharsh1211/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kharsh1211/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 ## Trie
