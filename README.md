@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/kharsh1211/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/kharsh1211/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/kharsh1211/LEETCODE/tree/master/0202-happy-number) |
 | [2050-count-good-numbers](https://github.com/kharsh1211/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kharsh1211/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kharsh1211/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/kharsh1211/LEETCODE/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/kharsh1211/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/kharsh1211/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/kharsh1211/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kharsh1211/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/kharsh1211/LEETCODE/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/kharsh1211/LEETCODE/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kharsh1211/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 ## Trie
