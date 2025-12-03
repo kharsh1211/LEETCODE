@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool wordBreak(string s, vector<string>& wordDict) {
-        // unordered_set<string> wordSet(wordDict.begin(), wordDict.end());
         queue<int> q;
         vector<bool> visited(s.length() + 1, false);
         
