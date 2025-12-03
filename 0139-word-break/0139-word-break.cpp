@@ -9,7 +9,7 @@ public:
         if(wl.find(s)!=wl.end()) return true;
 
         for(int l=0;l<n;l++){
-            if((wl.find(s.substr(idx,l))!=wl.end()) && solve(idx+l,s)) return true;
+            if((wl.find(s.substr(idx,l))!=wl.end()) && solve(idx+l,s)) return dp[idx]=true;
         }
         return dp[idx]=false;
     }
