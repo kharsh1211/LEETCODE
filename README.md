@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/kharsh1211/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/kharsh1211/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/kharsh1211/LEETCODE/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/kharsh1211/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/1250-longest-common-subsequence) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/kharsh1211/LEETCODE/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kharsh1211/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kharsh1211/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/kharsh1211/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kharsh1211/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/kharsh1211/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/kharsh1211/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kharsh1211/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kharsh1211/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/kharsh1211/LEETCODE/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kharsh1211/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -184,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 ## Sorting
 |  |
