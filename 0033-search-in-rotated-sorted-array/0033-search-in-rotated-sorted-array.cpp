@@ -1,40 +1,37 @@
 class Solution {
 public:
-    bool check(vector<int>& nums, int index, int target) {
-        int n = nums.size();
-        int pivot_val = nums.back();
-
-        bool is_num_in_right = (nums[index] <= pivot_val);
-        bool is_target_in_right = (target <= pivot_val);
-
-        if (is_num_in_right && !is_target_in_right) {
-            return true;
-        }
-        if (!is_num_in_right && is_target_in_right) {
-            return false;
-        }
-        return nums[index] >= target;
+    int check(int mid,vector<int>& nums){
+        int n=nums.size();
+        if(nums[mid]<=nums[n-1]) return 1;
+        return 0;
     }
-
-    int search(vector<int>& nums, int target) {
-        int n = nums.size();
-        int l = 0;
-        int r = n - 1;
-        int ans = -1;
-
+    int binarySearch(vector<int>& nums, int start, int end, int target) {
+        int l = start, r = end;
         while (l <= r) {
             int mid = l + (r - l) / 2;
-            if (check(nums, mid, target) == true) {
-                ans = mid;
-                r = mid - 1;
-            } else {
-                l = mid + 1;
+            if (nums[mid] == target) return mid;
+            else if (nums[mid] < target) l = mid + 1;
+            else r = mid - 1;
+        }
+        return -1;
+    }
+    int search(vector<int>& nums, int target) {
+        int n=nums.size();
+        int l=0,r=n-1;
+        int mini=0;
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            if(check(mid,nums)==1){
+                mini=mid;
+                r=mid-1;
             }
-        }
-        if (ans != -1 && nums[ans] == target) {
-            return ans;
+            else l=mid+1;
+        } 
+        if (target >= nums[mini] && target <= nums[n-1]) {
+            return binarySearch(nums, mini, n - 1, target);
         } else {
-            return -1;
+            return binarySearch(nums, 0, mini - 1, target);
         }
+          
     }
 };
