@@ -9,6 +9,6 @@ public:
             else if(nums[mid]<nums[r]) r=mid;
             else r--;
         }    
-        return nums[l];
+        return nums[r];
     }
 };
