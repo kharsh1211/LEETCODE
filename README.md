@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kharsh1211/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kharsh1211/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/kharsh1211/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/kharsh1211/LEETCODE/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/kharsh1211/LEETCODE/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Breadth-First Search
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/kharsh1211/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/kharsh1211/LEETCODE/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/kharsh1211/LEETCODE/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Backtracking
 |  |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kharsh1211/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/kharsh1211/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/kharsh1211/LEETCODE/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Linked List
 |  |
 | ------- |
