@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/kharsh1211/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/kharsh1211/LEETCODE/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
+| [0567-permutation-in-string](https://github.com/kharsh1211/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kharsh1211/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/1250-longest-common-subsequence) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/kharsh1211/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/kharsh1211/LEETCODE/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/kharsh1211/LEETCODE/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/kharsh1211/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/kharsh1211/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kharsh1211/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/kharsh1211/LEETCODE/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kharsh1211/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0567-permutation-in-string](https://github.com/kharsh1211/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 ## Trie
 |  |
