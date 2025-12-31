@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0853-car-fleet](https://github.com/kharsh1211/LEETCODE/tree/master/0853-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kharsh1211/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1331-path-with-maximum-gold](https://github.com/kharsh1211/LEETCODE/tree/master/1331-path-with-maximum-gold) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kharsh1211/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kharsh1211/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kharsh1211/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
