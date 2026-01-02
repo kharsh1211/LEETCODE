@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/kharsh1211/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kharsh1211/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/kharsh1211/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/kharsh1211/LEETCODE/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/kharsh1211/LEETCODE/tree/master/3781-maximum-score-after-binary-swaps) |
 ## Backtracking
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kharsh1211/LEETCODE/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
@@ -184,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kharsh1211/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/kharsh1211/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Two Pointers
