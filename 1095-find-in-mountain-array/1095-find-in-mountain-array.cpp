@@ -45,11 +45,7 @@ public:
         int peak=l;
         int leftans=left_search(target,mountainArr,0,peak);
         int rightans=right_search(target,mountainArr,peak+1,n-1);
-        if(leftans==-1 && rightans!=-1 ) return rightans;
-        else if(leftans!=-1 && rightans==-1 ) return leftans;
-        else if(leftans!=-1 && rightans!=-1 && leftans<rightans ) return leftans;
-        else if(leftans!=-1 && rightans!=-1 && leftans>rightans ) return rightans;
-        else return -1;
+        return (leftans == -1) ? rightans : leftans;
 
 
     }
