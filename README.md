@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kharsh1211/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-squares-of-a-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/kharsh1211/LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1331-path-with-maximum-gold](https://github.com/kharsh1211/LEETCODE/tree/master/1331-path-with-maximum-gold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kharsh1211/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kharsh1211/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/kharsh1211/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kharsh1211/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/kharsh1211/LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/kharsh1211/LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kharsh1211/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kharsh1211/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
@@ -337,4 +339,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0853-car-fleet](https://github.com/kharsh1211/LEETCODE/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/kharsh1211/LEETCODE/tree/master/0901-online-stock-span) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/kharsh1211/LEETCODE/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
