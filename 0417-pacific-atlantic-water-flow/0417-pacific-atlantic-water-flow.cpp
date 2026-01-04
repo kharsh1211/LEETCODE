@@ -32,9 +32,7 @@ public:
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(pacVis[i][j]==1 && atlVis[i][j]==1) ans.push_back({i,j});
-                cout<<pacVis[i][j]<<" ";
             }
-            cout<<endl;
         }
 
         return ans;
