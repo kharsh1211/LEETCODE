@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kharsh1211/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/kharsh1211/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kharsh1211/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/kharsh1211/LEETCODE/tree/master/0152-maximum-product-subarray) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kharsh1211/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kharsh1211/LEETCODE/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0130-surrounded-regions](https://github.com/kharsh1211/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kharsh1211/LEETCODE/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kharsh1211/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kharsh1211/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0130-surrounded-regions](https://github.com/kharsh1211/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kharsh1211/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [1331-path-with-maximum-gold](https://github.com/kharsh1211/LEETCODE/tree/master/1331-path-with-maximum-gold) |
 ## Simulation
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/kharsh1211/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/kharsh1211/LEETCODE/tree/master/0547-number-of-provinces) |
 ## Geometry
 |  |
