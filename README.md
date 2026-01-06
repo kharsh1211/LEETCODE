@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/kharsh1211/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/kharsh1211/LEETCODE/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kharsh1211/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kharsh1211/LEETCODE/tree/master/0684-redundant-connection) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/kharsh1211/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/kharsh1211/LEETCODE/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/kharsh1211/LEETCODE/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kharsh1211/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/kharsh1211/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/kharsh1211/LEETCODE/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kharsh1211/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/kharsh1211/LEETCODE/tree/master/0547-number-of-provinces) |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/kharsh1211/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/kharsh1211/LEETCODE/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/kharsh1211/LEETCODE/tree/master/1462-course-schedule-iv) |
 ## Design
 |  |
