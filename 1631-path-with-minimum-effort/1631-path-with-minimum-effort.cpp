@@ -20,7 +20,7 @@ public:
 
             if(r==n-1 && c==m-1) return w;
 
-            if(dist[r][c]<w) continue;
+            // if(dist[r][c]<w) continue;
 
             for(int k=0;k<4;k++){
                 int nr=r+dx[k];
