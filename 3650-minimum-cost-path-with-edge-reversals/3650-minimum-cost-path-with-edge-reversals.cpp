@@ -26,6 +26,7 @@ public:
             if(node==n-1) return w;
             // if(vis[node]) continue;
             // vis[node] = 1;
+            if(dist[node]<w)continue;
 
             for(auto &x:grid[node]){
                 if(dist[x.first]>w+x.second){
