@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/kharsh1211/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kharsh1211/LEETCODE/tree/master/0684-redundant-connection) |
 | [1462-course-schedule-iv](https://github.com/kharsh1211/LEETCODE/tree/master/1462-course-schedule-iv) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Bitmask
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kharsh1211/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/kharsh1211/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/kharsh1211/LEETCODE/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Union Find
 |  |
