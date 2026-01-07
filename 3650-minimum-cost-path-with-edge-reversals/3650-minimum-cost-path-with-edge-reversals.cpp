@@ -12,7 +12,7 @@ public:
             grid[u].push_back({v,w});
             grid[v].push_back({u,2*w});
         } 
-        vector<int>vis(n,0);
+        // vector<int>vis(n,0);
         vector<int>dist(n,1e9);
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>>pq;
         pq.push({0,0});
@@ -24,11 +24,11 @@ public:
             pq.pop();
 
             if(node==n-1) return w;
-            if(vis[node]) continue;
-            vis[node] = 1;
+            // if(vis[node]) continue;
+            // vis[node] = 1;
 
             for(auto &x:grid[node]){
-                if(!vis[x.first] && dist[x.first]>w+x.second){
+                if(dist[x.first]>w+x.second){
                     dist[x.first]=w+x.second;
                     pq.push({dist[x.first],x.first});
                 }
