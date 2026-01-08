@@ -20,6 +20,8 @@ public:
             int wt=pq.top().first;
             pq.pop();
 
+            if(wt>dist[node]) continue;
+
             for(auto &x:graph[node]){
                 int newDist = wt + x.second;
                 if(dist[x.first]>newDist){
