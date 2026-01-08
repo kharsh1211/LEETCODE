@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/kharsh1211/LEETCODE/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/kharsh1211/LEETCODE/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/kharsh1211/LEETCODE/tree/master/1462-course-schedule-iv) |
+| [1514-path-with-maximum-probability](https://github.com/kharsh1211/LEETCODE/tree/master/1514-path-with-maximum-probability) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-find-in-mountain-array](https://github.com/kharsh1211/LEETCODE/tree/master/1095-find-in-mountain-array) |
 | [1331-path-with-maximum-gold](https://github.com/kharsh1211/LEETCODE/tree/master/1331-path-with-maximum-gold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kharsh1211/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1514-path-with-maximum-probability](https://github.com/kharsh1211/LEETCODE/tree/master/1514-path-with-maximum-probability) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kharsh1211/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kharsh1211/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kharsh1211/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/kharsh1211/LEETCODE/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/kharsh1211/LEETCODE/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/kharsh1211/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/kharsh1211/LEETCODE/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/kharsh1211/LEETCODE/tree/master/1514-path-with-maximum-probability) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Union Find
