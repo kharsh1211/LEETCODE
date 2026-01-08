@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0853-car-fleet](https://github.com/kharsh1211/LEETCODE/tree/master/0853-car-fleet) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/kharsh1211/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kharsh1211/LEETCODE/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/kharsh1211/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1462-course-schedule-iv](https://github.com/kharsh1211/LEETCODE/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Greedy
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/kharsh1211/LEETCODE/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/kharsh1211/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kharsh1211/LEETCODE/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/kharsh1211/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1462-course-schedule-iv](https://github.com/kharsh1211/LEETCODE/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
@@ -309,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kharsh1211/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/kharsh1211/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kharsh1211/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
+| [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1331-path-with-maximum-gold](https://github.com/kharsh1211/LEETCODE/tree/master/1331-path-with-maximum-gold) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
@@ -322,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kharsh1211/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/kharsh1211/LEETCODE/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/kharsh1211/LEETCODE/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -365,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kharsh1211/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kharsh1211/LEETCODE/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
 ## Geometry
 |  |
