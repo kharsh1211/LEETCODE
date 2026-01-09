@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<long long> djikstra(vector<vector<pair<int,int>>>&graph,int s,int n){
         vector<long long>dist(n,1e18);
-        priority_queue<pair<long long,int>,vector<pair<long long,int>>,greater<pair<long long,int>>>pq;
+        priority_queue<pair<long long,int>,vector<pair<long long,int>>,greater<>>pq;
 
         dist[s]=0;
         pq.push({0,s});
