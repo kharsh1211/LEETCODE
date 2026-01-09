@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
 | [0567-permutation-in-string](https://github.com/kharsh1211/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/kharsh1211/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/kharsh1211/LEETCODE/tree/master/0981-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/1250-longest-common-subsequence) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/kharsh1211/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kharsh1211/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [1250-longest-common-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kharsh1211/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/kharsh1211/LEETCODE/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0853-car-fleet](https://github.com/kharsh1211/LEETCODE/tree/master/0853-car-fleet) |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kharsh1211/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0778-swim-in-rising-water](https://github.com/kharsh1211/LEETCODE/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0875-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/kharsh1211/LEETCODE/tree/master/0907-koko-eating-bananas) |
@@ -257,18 +261,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kharsh1211/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/kharsh1211/LEETCODE/tree/master/0567-permutation-in-string) |
+| [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/kharsh1211/LEETCODE/tree/master/0981-time-based-key-value-store) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
+| [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0047-permutations-ii) |
 | [0295-find-median-from-data-stream](https://github.com/kharsh1211/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0853-car-fleet](https://github.com/kharsh1211/LEETCODE/tree/master/0853-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/kharsh1211/LEETCODE/tree/master/1019-squares-of-a-sorted-array) |
