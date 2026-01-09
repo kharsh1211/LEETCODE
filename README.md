@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/kharsh1211/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1462-course-schedule-iv](https://github.com/kharsh1211/LEETCODE/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/kharsh1211/LEETCODE/tree/master/1514-path-with-maximum-probability) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/kharsh1211/LEETCODE/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/kharsh1211/LEETCODE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kharsh1211/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/kharsh1211/LEETCODE/tree/master/1514-path-with-maximum-probability) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/kharsh1211/LEETCODE/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/kharsh1211/LEETCODE/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Union Find
