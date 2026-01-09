@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/kharsh1211/LEETCODE/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/kharsh1211/LEETCODE/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kharsh1211/LEETCODE/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/kharsh1211/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/kharsh1211/LEETCODE/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/kharsh1211/LEETCODE/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kharsh1211/LEETCODE/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
 | [0981-time-based-key-value-store](https://github.com/kharsh1211/LEETCODE/tree/master/0981-time-based-key-value-store) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kharsh1211/LEETCODE/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Trie
 |  |
 | ------- |
@@ -418,4 +421,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/kharsh1211/LEETCODE/tree/master/1095-find-in-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kharsh1211/LEETCODE/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 <!---LeetCode Topics End-->
