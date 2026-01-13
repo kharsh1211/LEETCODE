@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/kharsh1211/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/kharsh1211/LEETCODE/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/kharsh1211/LEETCODE/tree/master/0417-pacific-atlantic-water-flow) |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/kharsh1211/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
