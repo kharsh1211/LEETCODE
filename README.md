@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/kharsh1211/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/kharsh1211/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kharsh1211/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0210-course-schedule-ii) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/kharsh1211/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0098-validate-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/kharsh1211/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/kharsh1211/LEETCODE/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
