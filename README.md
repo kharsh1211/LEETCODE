@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/kharsh1211/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kharsh1211/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kharsh1211/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/kharsh1211/LEETCODE/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/kharsh1211/LEETCODE/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/kharsh1211/LEETCODE/tree/master/0399-evaluate-division) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kharsh1211/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/kharsh1211/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kharsh1211/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/kharsh1211/LEETCODE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/kharsh1211/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kharsh1211/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kharsh1211/LEETCODE/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kharsh1211/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/kharsh1211/LEETCODE/tree/master/0202-happy-number) |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/kharsh1211/LEETCODE/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/kharsh1211/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
