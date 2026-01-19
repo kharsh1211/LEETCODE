@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/kharsh1211/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0792-number-of-matching-subsequences) |
 | [0808-number-of-matching-subsequences](https://github.com/kharsh1211/LEETCODE/tree/master/0808-number-of-matching-subsequences) |
+| [1137-n-th-tribonacci-number](https://github.com/kharsh1211/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/kharsh1211/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kharsh1211/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-total-appeal-of-a-string](https://github.com/kharsh1211/LEETCODE/tree/master/2262-total-appeal-of-a-string) |
@@ -194,12 +195,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/kharsh1211/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/kharsh1211/LEETCODE/tree/master/0202-happy-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kharsh1211/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/kharsh1211/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kharsh1211/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/kharsh1211/LEETCODE/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/kharsh1211/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
