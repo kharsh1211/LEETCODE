@@ -1,22 +1,20 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int target,int i,int sum,vector<vector<int>>&dp,int offset){
-        if(i==nums.size()) return (sum==target)?1:0;
-        if(dp[i][sum + offset] != -1) return dp[i][sum + offset];
-        int add=solve(nums,target,i+1,sum+nums[i],dp,offset);
-        int sub=solve(nums,target,i+1,sum-nums[i],dp,offset);
+    int dp[5001][101];
+    int offset=2000;
+    int solve(vector<int>& nums, int target, int i){
+        if(i>=nums.size()){
+            if(target==0) return 1;
+            else return 0;
+        }
+        if(dp[target+offset][i]!=-1) return dp[target+offset][i];
+        int add=solve(nums,target-nums[i],i+1);
+        int subs=solve(nums,target+nums[i],i+1);
 
-        return dp[i][sum + offset]=add + sub;
+        return dp[target+offset][i]=add+subs;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n=nums.size();
-        int sum=0;
-        int total=0;
-        for(int x : nums) {
-            total += x;
-        }
-        int offset = total;
-        vector<vector<int>>dp(n+1,vector<int>(2*total+1,-1));
-        return solve(nums,target,0,0,dp,offset);
+        memset(dp,-1,sizeof(dp));
+        return solve(nums,target,0);    
     }
 };
