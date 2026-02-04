@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/kharsh1211/LEETCODE/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kharsh1211/LEETCODE/tree/master/0090-subsets-ii) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/kharsh1211/LEETCODE/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/kharsh1211/LEETCODE/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Graph
 |  |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/kharsh1211/LEETCODE/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/kharsh1211/LEETCODE/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kharsh1211/LEETCODE/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/kharsh1211/LEETCODE/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/kharsh1211/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/kharsh1211/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/kharsh1211/LEETCODE/tree/master/1631-path-with-minimum-effort) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/kharsh1211/LEETCODE/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Sliding Window
 |  |
 | ------- |
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kharsh1211/LEETCODE/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/kharsh1211/LEETCODE/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Divide and Conquer
 |  |
 | ------- |
