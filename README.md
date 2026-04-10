@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-total-appeal-of-a-string](https://github.com/kharsh1211/LEETCODE/tree/master/2262-total-appeal-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kharsh1211/LEETCODE/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kharsh1211/LEETCODE/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/kharsh1211/LEETCODE/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Trie
 |  |
 | ------- |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kharsh1211/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/kharsh1211/LEETCODE/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/kharsh1211/LEETCODE/tree/master/3776-minimum-moves-to-balance-circular-array) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/kharsh1211/LEETCODE/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Linked List
 |  |
 | ------- |
@@ -464,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/kharsh1211/LEETCODE/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/kharsh1211/LEETCODE/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/kharsh1211/LEETCODE/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -476,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kharsh1211/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/kharsh1211/LEETCODE/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Quickselect
 |  |
 | ------- |
